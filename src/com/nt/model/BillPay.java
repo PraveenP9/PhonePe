@@ -2,7 +2,7 @@ package com.nt.model;
 
 public class BillPay {
 	public BillPay() {
-
+       System.out.println("object");
 	}
 
 	public static void main(String[] args) {
